@@ -1,5 +1,5 @@
 # Simple Web Server in Golang
-This learning project for building a simple web server implementation in Golang. It serves static content and handles basic HTTP requests.  
+This is a learning project for creating a basic web server implementation in Golang. It serves static content and handles basic HTTP requests.  
 I used a freeCodeCamp.org video tutorial to learn and create this project.  
 
 ## Endpoints
